@@ -1,4 +1,5 @@
 # Drowsiness-Detector
+
 Descripción:
 ¡Bienvenido al Detector de Somnolencia, un proyecto innovador en Inteligencia Artificial (IA) y Visión por Computadora! Desarrollado en Python utilizando OpenCV y MediaPipe, este sistema detecta en tiempo real el cierre prolongado de ojos para prevenir accidentes por somnolencia, activando una alerta sonora. Ideal para aplicaciones de seguridad vial, monitoreo laboral o proyectos de Machine Learning.
 
